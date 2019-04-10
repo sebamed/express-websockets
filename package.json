@@ -1,0 +1,11 @@
+{
+  "name": "express-websockets",
+  "version": "1.0.0",
+  "description": "Simple web sockets chat app using Socket.IO in Express application. Main purpose: learning web sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sebamed",
+  "license": "ISC"
+}
